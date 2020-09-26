@@ -1,8 +1,8 @@
 {
-  "title": "Title of the website. Update me.",
+  "title": "Robin Curbelo",
   "url": "https://update-me.com",
   "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "description": "Hi! I'm Robin",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me",
   "feed": {
@@ -16,10 +16,10 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Robin Curbelo",
+    "twitterHandle": "@RobinCurbelo"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Robin Curbelo"
   }
 }
