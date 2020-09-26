@@ -9,3 +9,9 @@ date: Last Modified
 <p>
   Hang in there, good content is coming up!
 </p>
+
+<div id="posts">
+  <h2>Posts</h2>
+  {% set postslist = collections.posts %}
+  {% include "postslist.njk" %}
+</div>
